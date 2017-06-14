@@ -1,0 +1,26 @@
+h1{
+	color: red;
+}
+
+img{
+	/*border-color: purple;
+	border-width: 1px;
+	border-style: solid;*/
+	border: 1px solid brown;
+}
+
+
+body{
+	background-color: green: 
+}
+
+.color-red{
+	color:red;
+
+}
+.color-blue{
+	color:blue;
+}
+.magin-15{
+	margin-left: 15px;
+}
